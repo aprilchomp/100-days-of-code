@@ -8,7 +8,3 @@
 **Today's Progress**: Fork 100-days repo
 **Thoughts**: Test
 **Link to work**: NA
-
-### Day 1: June 11, 2020
-**Today's Progress**: FreeCodeCamp Basic Javascript
-**Thoughts**: Continued Learning 
